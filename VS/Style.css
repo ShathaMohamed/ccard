@@ -1,0 +1,13 @@
+@font-face { 
+    font-family: 'HONOR Sans Arabic UI';
+    src: url('alfont_com_HONORSansArabicUI-EB.woff') format('woff'),
+         url('falfont_com_HONORSansArabicUI-EB.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'HONOR Sans Arabic UI', sans-serif;
+    color: #22a351;
+}
+
